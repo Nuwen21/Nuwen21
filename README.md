@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:06b6d4&height=180&section=header&text=Nuwen%20Sarathchandra&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Undergraduate%20%7C%20Backend%20%26%20Security%20Developer&descAlignY=60&descSize=16" width="100%" />
+  <h1>Hi, I'm Nuwen Sarathchandra 👋</h1>
+  <a href="https://github.com/Nuwen21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergraduate+%40+SLIIT;Backend+%26+Security-Focused+Developer;Building+Secure+Auth+Systems+%26+APIs" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
